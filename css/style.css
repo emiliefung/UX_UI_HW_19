@@ -122,6 +122,9 @@ button {
     font-size: 16pt;
     font-weight: bold;
 }
+button:hover {
+    background-color: #ffbf34;
+}
 
 .flexContainer {
     display: flex;
