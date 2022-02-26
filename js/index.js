@@ -54,5 +54,9 @@ $(document).ready(function() {
     function(){
         $(this).css("color", "white");
     });
+
+
+
+    
 });
 
