@@ -11,13 +11,11 @@
     left: 0;
     align-items: center;
 }
-
 .logo {
     display: flex;
     align-items: center;
     margin-left: 28%;
 }
-
 .container2 {
     display: flex;
     align-items: center;
@@ -106,6 +104,7 @@ h2 {
 
 .description {
     display: flex;
+    font-size: 18pt;
     flex-direction: column;
     margin-top: -5px;
     margin-bottom: 50px;
@@ -219,7 +218,7 @@ h4 {
     height: 275px;
 }
 p {
-    font-size: 20pt;
+    font-size: 16pt;
     font-family: Arial, Helvetica, sans-serif;
 }
 
